@@ -1,7 +1,8 @@
 1.
 
 I used python for this project because of its capabilities of handling large data sets. I imported csv, sys, and datetime because each of them assisted 
-me in my program. csv allowed me to easily read the transactions.csv file and convert its information into a usable list. sys allowed me to read the arguments coming from the terminal, and datetime allowed me to handle the timestamp column. If this problem became more complicated and involved more
+me in my program. csv allowed me to easily read the transactions.csv file and convert its information into a usable list. sys allowed me to read the 
+arguments coming from the terminal, and datetime allowed me to handle the timestamp column. If this problem became more complicated and involved more
 data manipulation, I would also consider adding the pandas package.
 
 2.
