@@ -1,11 +1,19 @@
 1.
 
-I used python for this project because of its capabilities of handling large data sets. I imported csv, sys, and datetime because each of them assisted me in my program. csv allowed me to easily read the transactions.csv file and convert its information into a usable list. sys allowed me to read the arguments coming from the terminal, and datetime allowed me to handle the timestamp column. If this problem became more complicated and involved more data manipulation, I would also consider adding the pandas package.
+I used python for this project because of its capabilities of handling large data sets. I imported csv, sys, and datetime because each of them assisted 
+me in my program. csv allowed me to easily read the transactions.csv file and convert its information into a usable list. sys allowed me to read the arguments coming from the terminal, and datetime allowed me to handle the timestamp column. If this problem became more complicated and involved more
+data manipulation, I would also consider adding the pandas package.
 
 2.
 
-The advantages to my solution is that it is very simple. My solution can be ran easily in the terminal and will get you the exact information you need back to you quickly. The disadvatages are that it may not scale very well if the problem became more complex. I use no external database and have no package to help for data manipulation down the road, but for the current problem it solves it efficiently.
+The advantages to my solution is that it is very simple. My solution can be ran easily in the terminal and will get you the exact information you need back 
+to you quickly. The disadvatages are that it may not scale very well if the problem became more complex. I use no external database and have no package to 
+help for data manipulation down the road, but for the current problem it solves it efficiently.
 
 3.
 
-My favorite school project so far has been a project in my Artificial Intelligence class where we had to implement the min-max algorithm to create a computer that could play a simple game similar to 'connect 4'. What I liked most about it was that it built upon a previous class, Algorithms, which I loved. The problem was very difficult, but intuitive, which is always an interesting challenge because the answer will be elegant and logical in the end even though it seems so complex in the moment. What I also enjoy about problems of this style is a lot of the debugging involves tracing through your algorithm and optimizing it, meaning that you find new ways to elimate redundancy and increase simplicity.
+My favorite school project so far has been a project in my Artificial Intelligence class where we had to implement the min-max algorithm to create a 
+computer that could play a simple game similar to 'connect 4'. What I liked most about it was that it built upon a previous class, Algorithms, which I 
+loved. The problem was very difficult, but intuitive, which is always an interesting challenge because the answer will be elegant and logical in the end 
+even though it seems so complex in the moment. What I also enjoy about problems of this style is a lot of the debugging involves tracing through your 
+algorithm and optimizing it, meaning that you find new ways to elimate redundancy and increase simplicity.
